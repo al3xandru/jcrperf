@@ -1,0 +1,1 @@
+An attempt to create a common benchmarking suite for JSR-170 implementations
